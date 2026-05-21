@@ -1,0 +1,27 @@
+
+state = {
+	id = 850
+	name = "STATE_850" # Trentino
+	manpower = 370739 # South Tyrol state was 641650 before spFUM (669k according to sources)
+	
+	state_category = town
+
+	history = {
+		victory_points = { #Trento
+			9598 1
+		}
+		owner = VIR
+		buildings = {
+			infrastructure = 2 #was 3 before spFUM
+		}
+		add_core_of = VIR
+		add_core_of = LBV
+		add_core_of = AHE
+	}
+
+	provinces = {
+		6631 9598 
+	}
+
+	local_supplies = 0.0 
+}
