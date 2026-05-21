@@ -15,3 +15,8 @@ spriteType = {
 		texturefile = "gfx/leaders/RAG/Portrait_RAGNN.dds"
 	}
 } 
+#UTE
+spriteType = {
+        name = GFX_Portrait_Vladimir_Mudrodub
+        texturefile = gfx/leaders/UTE/Portrait_Vladimir_Mudrodub.dds
+    }
