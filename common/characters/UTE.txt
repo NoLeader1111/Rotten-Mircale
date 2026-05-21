@@ -1,0 +1,16 @@
+characters={
+
+	UTE_vladimir_mudrodub={
+		name = UTE_vladimir_mudrodub
+			portraits={
+				civilian={
+					large=GFX_Portrait_Vladimir_Mudrodub
+				}
+			}
+			country_leader={
+				ideology=despotism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+}
