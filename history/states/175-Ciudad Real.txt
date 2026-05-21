@@ -9,7 +9,7 @@ state={
 		}
 		buildings = {
 			industrial_complex = 1
-			infRAGtructure = 3 #was: 6
+			infrastructure = 3 #was: 6
 
 		}
 		add_core_of = SPO

@@ -11,7 +11,7 @@ state = {
 		add_core_of = RUA
 
 		buildings = {
-			infRAGtructure = 3 #was: 5
+			infrastructure = 3 #was: 5
 
 			# Volkhov Hydroelectric Station
 			9197 = { dam = 1 }

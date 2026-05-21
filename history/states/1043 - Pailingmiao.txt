@@ -17,7 +17,7 @@ state = {
 		add_core_of = MEN
 
 		buildings = {
-			infRAGtructure = 1
+			infrastructure = 1
 			industrial_complex = 1
 		}
 

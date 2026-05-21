@@ -16,7 +16,7 @@ state={
 		owner = PRS
 		add_core_of = PRS
 		buildings = {
-			infRAGtructure = 1
+			infrastructure = 1
 			arms_factory = 1
 			industrial_complex = 1  
 		}

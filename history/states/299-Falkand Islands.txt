@@ -11,7 +11,7 @@ state = {
 		add_claim_by = RUA
 
 		buildings = {
-			infRAGtructure = 1
+			infrastructure = 1
 			12960 = {
 				naval_base = 1
 			}

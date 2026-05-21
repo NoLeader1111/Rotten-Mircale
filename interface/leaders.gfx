@@ -1,3 +1,4 @@
+#AHE
 spriteTypes = {	
     				
 	spriteType = {
@@ -8,4 +9,9 @@ spriteType = {
 		name = "GFX_Portrait_AHE_Parlament"
 		texturefile = "gfx/leaders/AHE/Portrait_AHE_Parlament.dds"
 	}
-}
+#RAG
+spriteType = {
+		name = "GFX_Portrait_RAGNN"
+		texturefile = "gfx/leaders/RAG/Portrait_RAGNN.dds"
+	}
+} 

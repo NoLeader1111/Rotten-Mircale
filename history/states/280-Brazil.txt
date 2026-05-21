@@ -7,7 +7,7 @@ state={
 		owner = ARB
 		add_core_of = ARB
 		buildings = {
-			infRAGtructure = 1
+			infrastructure = 1
 
 		}
 		victory_points = {

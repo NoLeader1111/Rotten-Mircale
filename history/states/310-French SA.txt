@@ -10,7 +10,7 @@ state={
 		owner = SPO
 		add_core_of = CAY
 		buildings = {
-			infRAGtructure = 1
+			infrastructure = 1
 			12885 = {
 				naval_base = 1
 			}

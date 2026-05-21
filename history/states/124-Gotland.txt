@@ -13,7 +13,7 @@ state=
 		owner = RAG
 		add_core_of = RAG
 		buildings = {
-			infRAGtructure = 3 #was: 6
+			infrastructure = 3 #was: 6
 			408 = {
 				naval_base = 1
 			}

@@ -16,7 +16,7 @@ state={
 		}
 		owner = GRA
 		buildings = {
-			infRAGtructure = 1
+			infrastructure = 1
 			arms_factory = 1
 
 		}

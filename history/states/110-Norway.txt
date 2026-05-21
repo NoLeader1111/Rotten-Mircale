@@ -20,7 +20,7 @@ state = {
 		
 		owner = RAG
 		buildings = {
-			infRAGtructure = 3
+			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 2
 			dockyard = 1

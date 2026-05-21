@@ -9,7 +9,7 @@ state={
 	history={
 		owner = ARB
 		buildings = {
-			infRAGtructure = 2
+			infrastructure = 2
 		}
 		add_core_of = ARB
 		victory_points = {
