@@ -1,16 +1,47 @@
 characters = {
-	AHE_Carl_I = {
-		name = "AHE_Carl"
+	AHE_CarlN = {
+		name = AHE_CarlN
 		portraits = {
 			civilian = {
-					large = "AHE_Carl"
+					large = GFX_AHE_Carl
 				}
 			}
 			country_leader = {
 				ideology = centrism
-				expire = "2000.1.1"
+				expire = "1965.1.1.1"
 				id = -1
-				traits = { incompetent The_architect_of_the_Danube big_personality }
+				traits = { incompetent
+				the_architect_of_the_danube
+				big_personality }
+			}
+	}
+	AHE_CarlD = {
+		name = AHE_CarlD
+		portraits = {
+			civilian = {
+					large = GFX_AHE_Carl
+				}
+			}
+			country_leader = {
+				ideology = conservatism
+				expire = "1965.1.1.1"
+				id = -1
+				traits = { incompetent
+				the_architect_of_the_danube
+				big_personality }
+			}
+	}
+	AHE_ParlamentC = {
+		name = AHE_ParlamentC
+		portraits = {
+			civilian = {
+					large = GFX_Portrait_AHE_Parlament
+				}
+			}
+			country_leader = {
+				ideology = stalinism
+				expire = "1965.1.1.1"
+				id = -1
 			}
 	}
 }

@@ -10,7 +10,9 @@ set_technology = {
 }
 
 set_convoys = 20
-recruit_character = AHE_Carl
+recruit_character = AHE_CarlD
+recruit_character = AHE_CarlN
+recruit_character = AHE_ParlamentC
 1939.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort
