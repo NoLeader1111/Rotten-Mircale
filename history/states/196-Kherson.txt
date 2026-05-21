@@ -18,7 +18,7 @@ state = {
 		}
 		
 		buildings = {
-			infrastructure = 3 #was: 5
+			infRAGtructure = 3 #was: 5
 			air_base = 3
 
 			# Kakhovka Dam

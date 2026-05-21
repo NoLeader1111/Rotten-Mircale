@@ -1,12 +1,12 @@
 state = {
 	id = 155
-	name = "STATE_155" # RASth Transdanubia
+	name = "STATE_155" # RAGth Transdanubia
 	manpower = 1465070 # was 2197605
 	
 	state_category = large_town # was city
 
 	resources = {
-		aluminium = 40 # moved from RASthern Hugary, then was 60
+		aluminium = 40 # moved from RAGthern Hugary, then was 60
 		coal = 1 # more coal is added through a focus
 	}
 
@@ -24,7 +24,7 @@ state = {
 		} 
 
 		buildings = {
-			infrastructure = 3 #was: 6
+			infRAGtructure = 3 #was: 6
 			industrial_complex = 2
 			arms_factory = 1
 			air_base = 1

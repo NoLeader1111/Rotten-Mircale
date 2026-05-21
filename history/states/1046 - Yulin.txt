@@ -10,7 +10,7 @@ state={
 		add_core_of = CHN
 		add_core_of = CHN
 		buildings = {
-			infrastructure = 1
+			infRAGtructure = 1
 		}
 
 		victory_points = {

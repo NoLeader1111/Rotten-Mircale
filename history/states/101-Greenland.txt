@@ -12,7 +12,7 @@ state = {
 	history = {
 		owner = EGN
 		buildings = {
-			infrastructure = 1
+			infRAGtructure = 1
 			12512 ={
 				naval_base = 1
 			}

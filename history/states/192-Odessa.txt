@@ -2,7 +2,7 @@
 state = {
 	id = 192
 	name = "STATE_192"
-	manpower = 1286238 #1 8th removed due to Balta-TirasFUM
+	manpower = 1286238 #1 8th removed due to Balta-TiRAGFUM
 	
 	state_category = city
 
@@ -12,7 +12,7 @@ state = {
 			11670 10 
 		}
 		buildings = {
-			infrastructure = 3 #was: 5
+			infRAGtructure = 3 #was: 5
 			industrial_complex = 1
 			air_base = 6
 			11670 ={

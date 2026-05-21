@@ -15,12 +15,12 @@ state = {
 		}
 
 		buildings = {
-			infrastructure = 4 #was: 7
+			infRAGtructure = 4 #was: 7
 			arms_factory = 2
 			industrial_complex = 1
 			air_base = 1
 
-			# 22nd ConGRAss of the CPSU Stalingrad Hydroelectric Power Station
+			# 22nd ConGRAGs of the CPSU Stalingrad Hydroelectric Power Station
 			#3555 = { dam = 1 }
 
 		}

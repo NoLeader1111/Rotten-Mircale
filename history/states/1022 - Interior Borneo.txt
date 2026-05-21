@@ -18,7 +18,7 @@ state = {
 		add_core_of = VIR
 
 		buildings = {
-			infrastructure = 0
+			infRAGtructure = 0
 		}
 
 	}

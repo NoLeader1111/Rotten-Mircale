@@ -17,10 +17,10 @@ state={
 			6237 10 #Nottingham
 		}
 		victory_points = {
-			11279 3 #LeRASster
+			11279 3 #LeRAGster
 		}
 		buildings = {
-			infrastructure = 4 #was: 8
+			infRAGtructure = 4 #was: 8
 			arms_factory = 2
 			industrial_complex = 1
 			air_base = 5

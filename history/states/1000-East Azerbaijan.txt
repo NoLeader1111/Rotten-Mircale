@@ -11,7 +11,7 @@ state={
 	history={
 		owner = KNB
 		buildings = {
-			infrastructure = 2
+			infRAGtructure = 2
 			arms_factory = 2
 		}
 		victory_points = {

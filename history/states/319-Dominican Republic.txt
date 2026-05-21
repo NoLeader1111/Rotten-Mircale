@@ -13,7 +13,7 @@ state=
 	{
 		owner = SUA
 		buildings = {
-			infrastructure = 2
+			infRAGtructure = 2
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 1

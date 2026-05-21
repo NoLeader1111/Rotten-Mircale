@@ -11,7 +11,7 @@ state={
 	history={
 		owner = RUA
 		buildings = {
-			infrastructure = 2
+			infRAGtructure = 2
 		}
 		add_core_of = RUA
 		victory_points = {

@@ -24,7 +24,7 @@ state = {
 		}
 
 		buildings = {
-			infrastructure = 2
+			infRAGtructure = 2
 			industrial_complex = 2
 
 			# Cabril Dam

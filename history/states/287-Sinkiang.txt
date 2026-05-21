@@ -10,7 +10,7 @@ state = {
 		add_core_of = CHN
 
 		buildings = {
-			infrastructure = 0
+			infRAGtructure = 0
 		}
 
 		1936.1.1 = {

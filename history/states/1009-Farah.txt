@@ -14,7 +14,7 @@ state={
 		owner = PRS
 		add_core_of = PRS
 		buildings = {
-			infrastructure = 0
+			infRAGtructure = 0
 		}
 
 		victory_points = {

@@ -10,10 +10,10 @@ state=
 		victory_points = {
 			408 1
 		}
-		owner = RAS
-		add_core_of = RAS
+		owner = RAG
+		add_core_of = RAG
 		buildings = {
-			infrastructure = 3 #was: 6
+			infRAGtructure = 3 #was: 6
 			408 = {
 				naval_base = 1
 			}

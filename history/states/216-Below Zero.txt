@@ -16,7 +16,7 @@ state = {
 		}
 
 		buildings = {
-			infrastructure = 2
+			infRAGtructure = 2
 			air_base = 3
 
 			# Lower Svir Hydroelectric Station

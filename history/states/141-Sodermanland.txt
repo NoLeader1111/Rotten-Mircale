@@ -11,7 +11,7 @@ state = {
 	}
 
 	history = {
-		owner = RAS
+		owner = RAG
 
 		victory_points = {
 			6050 20 # Stockholm
@@ -22,7 +22,7 @@ state = {
 		}
 
 		buildings = {
-			infrastructure = 4 #was: 7
+			infRAGtructure = 4 #was: 7
 			arms_factory = 2
 			industrial_complex = 3
 			dockyard = 1
@@ -33,7 +33,7 @@ state = {
 			}
 		}
 
-		add_core_of = RAS
+		add_core_of = RAG
 
 	}
 

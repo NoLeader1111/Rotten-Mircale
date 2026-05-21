@@ -17,7 +17,7 @@ state = {
 		add_core_of = AHE
 
 		buildings = {
-			infrastructure = 3 #was: 6
+			infRAGtructure = 3 #was: 6
 			industrial_complex = 1
 		}
 

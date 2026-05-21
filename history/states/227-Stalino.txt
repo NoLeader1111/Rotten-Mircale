@@ -13,7 +13,7 @@ state={
 	history={
 		owner = UAH
 		buildings = {
-			infrastructure = 3 #was: 5
+			infRAGtructure = 3 #was: 5
 		}
 		victory_points = {
 			6474 10

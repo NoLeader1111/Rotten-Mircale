@@ -9,7 +9,7 @@ state={
 	history={
 		owner = BRL
 		buildings = {
-			infrastructure = 3 #was: 5
+			infRAGtructure = 3 #was: 5
 			air_base = 2
 		}
 		add_core_of = BRL

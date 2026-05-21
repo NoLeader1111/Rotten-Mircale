@@ -1,7 +1,7 @@
 
 state={
 	id=284
-	name="STATE_284" # RASth Island
+	name="STATE_284" # RAGth Island
 	manpower = 899836
 	
 	resources = {
@@ -12,7 +12,7 @@ state={
 	history={
 		owner = NZL
 		buildings = {
-			infrastructure = 3 #was: 6
+			infRAGtructure = 3 #was: 6
 			arms_factory = 1
 			industrial_complex = 4
 			air_base = 3

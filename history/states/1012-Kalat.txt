@@ -14,7 +14,7 @@ state={
 		add_core_of = BLC
 
 		buildings = {
-			infrastructure = 1 #was: 5
+			infRAGtructure = 1 #was: 5
 		}
 
 		victory_points = {

@@ -13,8 +13,8 @@ state = {
 			9296 3 
 		}
 		
-		owner = RAS
-		add_core_of = RAS
+		owner = RAG
+		add_core_of = RAG
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

@@ -11,7 +11,7 @@ state = {
 		add_core_of = ARB
 
 		buildings = {
-			infrastructure = 3 #was: 5
+			infRAGtructure = 3 #was: 5
 
 			# Tsimlyanskoye Hydroelectric Station
 			#6490 = { dam = 1 }

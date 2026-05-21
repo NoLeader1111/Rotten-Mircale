@@ -13,7 +13,7 @@ state={
 	history={
 		owner = AHE
 		buildings = {
-			infrastructure = 3
+			infRAGtructure = 3
 			industrial_complex = 3
 		}
 		victory_points = {

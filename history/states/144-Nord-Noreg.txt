@@ -1,7 +1,7 @@
 
 state = {
 	id = 144
-	name = "STATE_144" # RASdland
+	name = "STATE_144" # RAGdland
 	manpower = 142100 # 355251
 	
 	state_category = rural
@@ -18,12 +18,12 @@ state = {
 			9126 1
 		}
 		
-		owner = RAS
-		add_core_of = RAS
+		owner = RAG
+		add_core_of = RAG
 		add_core_of = SMI
 		
 		buildings = {
-			infrastructure = 2
+			infRAGtructure = 2
 			air_base = 1
 			192 = {
 				naval_base = 3

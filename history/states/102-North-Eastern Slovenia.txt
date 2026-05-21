@@ -10,7 +10,7 @@ state=
 	{
 		owner = AHE
 		buildings = {
-			infrastructure = 3
+			infRAGtructure = 3
 		}
 		victory_points = {
 			665 1

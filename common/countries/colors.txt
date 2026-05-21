@@ -70,7 +70,7 @@ UTE = {
 GRA = {
 	color = rgb { 115 237 255 }
 	color_ui = rgb { 115 237 255 }
-RAS = {
+RAG = {
 	color = rgb { 240 200 0 }
 	color_ui = rgb { 240 200 0 }
 }
