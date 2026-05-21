@@ -4,10 +4,10 @@ state={
 	name="STATE_280"
 
 	history={
-		owner = ARB
-		add_core_of = ARB
+		owner = BGU
+		add_core_of = BGU
 		buildings = {
-			infRAGtructure = 1
+			infrastructure = 1
 
 		}
 		victory_points = {

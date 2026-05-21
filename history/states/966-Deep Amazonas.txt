@@ -10,8 +10,8 @@ state = {
 	force_link_ownership_to = 938 # Para
 	
 	history = {
-		owner = GRA
-		add_core_of = GRA
+		owner = BGU
+		add_core_of = BGU
 	}
 
 	provinces = {
