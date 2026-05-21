@@ -1,6 +1,6 @@
-#AHE
+
 spriteTypes = {	
-    				
+    #AHE	
 	spriteType = {
 		name = "GFX_AHE_Carl"
 		texturefile = "gfx/leaders/AHE/Portrait_AHE_Carl.dds"
@@ -22,6 +22,32 @@ spriteTypes = {
 	#ARB
 	spriteType = {
 			name = GFX_Portrait_Arbuz
-			texturefile = gfx/leaders/ARB/Portrait_ARZ_Arbuz.dds
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Arbuz.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_ArbAnarchist
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Anarchist.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_ArbFalanga
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Falanga.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_ArbCommando
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Commando.dds
+		}
+	#EGN
+	spriteType = {
+			name = GFX_Portrait_Agentik_Commi
+			texturefile = gfx/leaders/EGN/Portrait_EGN_Agentik_Commi.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_Agentik_King
+			texturefile = gfx/leaders/EGN/Portrait_EGN_Agentik_King.dds
+		}
+	#UAH
+	spriteType = {
+			name = GFX_Portrait_Chumbker_von_Aduchumb
+			texturefile = gfx/leaders/UAH/Portrait_UAH_Chumbker_von_Aduchumb.dds
 		}
 	}

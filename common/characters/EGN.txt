@@ -1,0 +1,29 @@
+characters={
+
+	EGN_agentik_commi={
+		name = EGN_agentik_commi
+			portraits={
+				civilian={
+					large=GFX_Portrait_Agentik_Commi
+				}
+			}
+			country_leader={
+				ideology=marxism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+	EGN_agentik_king={
+		name = EGN_agentik_king
+			portraits={
+				civilian={
+					large=GFX_Portrait_Agentik_King
+				}
+			}
+			country_leader={
+				ideology=despotism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+}
