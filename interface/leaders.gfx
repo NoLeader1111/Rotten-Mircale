@@ -5,18 +5,23 @@ spriteTypes = {
 		name = "GFX_AHE_Carl"
 		texturefile = "gfx/leaders/AHE/Portrait_AHE_Carl.dds"
 	}
-spriteType = {
-		name = "GFX_Portrait_AHE_Parlament"
-		texturefile = "gfx/leaders/AHE/Portrait_AHE_Parlament.dds"
+	spriteType = {
+			name = "GFX_Portrait_AHE_Parlament"
+			texturefile = "gfx/leaders/AHE/Portrait_AHE_Parlament.dds"
+		}
+	#RAG
+	spriteType = {
+			name = "GFX_Portrait_RAGNN"
+			texturefile = "gfx/leaders/RAG/Portrait_RAGNN.dds"
+		}
+	#UTE
+	spriteType = {
+			name = GFX_Portrait_Vladimir_Mudrodub
+			texturefile = gfx/leaders/UTE/Portrait_Vladimir_Mudrodub.dds
+		}
+	#ARB
+	spriteType = {
+			name = GFX_Portrait_Arbuz
+			texturefile = gfx/leaders/ARB/Portrait_ARZ_Arbuz.dds
+		}
 	}
-#RAG
-spriteType = {
-		name = "GFX_Portrait_RAGNN"
-		texturefile = "gfx/leaders/RAG/Portrait_RAGNN.dds"
-	}
-} 
-#UTE
-spriteType = {
-        name = GFX_Portrait_Vladimir_Mudrodub
-        texturefile = gfx/leaders/UTE/Portrait_Vladimir_Mudrodub.dds
-    }

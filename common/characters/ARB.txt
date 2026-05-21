@@ -1,0 +1,16 @@
+characters={
+
+	ARB_arbuz={
+		name = ARB_arbuz
+			portraits={
+				civilian={
+					large=GFX_Portrait_Arbuz
+				}
+			}
+			country_leader={
+				ideology=socialism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+}
