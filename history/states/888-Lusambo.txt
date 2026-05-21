@@ -10,7 +10,7 @@ state = {
 
 	history = {
 
-		owner = VON
+		owner = KTS
 
 		IF = {
 			limit = {

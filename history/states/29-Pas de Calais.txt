@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = VON
+		owner = KTS
 		victory_points = {
 			575 5
 		}
@@ -30,7 +30,7 @@ state={
 				naval_base = 6
 			}
 		}
-		add_core_of = VON
+		add_core_of = KTS
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 6

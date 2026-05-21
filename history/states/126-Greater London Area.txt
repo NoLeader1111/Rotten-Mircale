@@ -6,7 +6,7 @@ state={
 	state_category = megaloFUMis
 
 	history={
-		owner = VON
+		owner = KTS
 		victory_points = {
 			6103 50 
 		}
@@ -38,7 +38,7 @@ state={
 			}
 
 		}
-		add_core_of = VON
+		add_core_of = KTS
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 4

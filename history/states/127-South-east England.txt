@@ -11,8 +11,8 @@ state = {
 
 	history = {
 
-		owner = VON
-		add_core_of = VON
+		owner = KTS
+		add_core_of = KTS
 
 		victory_points = { 
 			3501 20 # Dover

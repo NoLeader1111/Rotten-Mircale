@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = URA
-		add_core_of = URA
+		owner = RUG
+		add_core_of = RUG
 
 		victory_points = {
 			11225 3 # Kuybyshev

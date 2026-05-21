@@ -7,8 +7,8 @@ state = {
 	
 	history = {
 
-		owner = GLO
-		add_core_of = GLO
+		owner = SYN
+		add_core_of = SYN
 
 		victory_points = {
 			3288 3 # Klaipeda/Memel
@@ -23,9 +23,9 @@ state = {
 		}
 		
 		1939.3.22 = {
-			owner = GLO
-			controller = GLO
-			add_core_of = GLO
+			owner = SYN
+			controller = SYN
+			add_core_of = SYN
 		}
 
 	}

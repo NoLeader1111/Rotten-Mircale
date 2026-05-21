@@ -27,13 +27,13 @@ SUA = {
 	color = rgb { 171  190  152}
 	color_ui = rgb { 171 190 152 }
 }
-VON = {
+KTS = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
-URA = {
-	color = rgb { 205 103 103 }
-	color_ui = rgb { 205 103 103 }
+RUG = {
+	color = rgb { 0 90 0 }
+	color_ui = rgb { 0 90 0 }
 }
 ARB = {
 	color = rgb { 7 120 14 }
@@ -71,8 +71,8 @@ GRA = {
 	color = rgb { 115 237 255 }
 	color_ui = rgb { 115 237 255 }
 RAS = {
-	color = rgb { 78 96 255 }
-	color_ui = rgb { 78 96 255 }
+	color = rgb { 240 200 0 }
+	color_ui = rgb { 240 200 0 }
 }
 UAH	color = rgb { 141 80 0 }
 	color_ui = rgb { 141 80 0 }
@@ -81,9 +81,9 @@ AHE = {
 	color = rgb { 255 255 255 }
 	color_ui = rgb { 255 255 255 }
 }
-GLO = {
-	color = rgb { 191  191  191 }
-	color_ui = rgb { 191  191  191 }
+SYN = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
 }
 FUM = {
 	color = rgb { 189 109 164 }

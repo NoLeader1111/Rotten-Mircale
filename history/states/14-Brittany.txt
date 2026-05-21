@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = VON
+		owner = KTS
 		victory_points = {
 			3552 20
 		}
@@ -40,7 +40,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = VON
+		add_core_of = KTS
 		add_core_of = BRI
 		1939.1.1 = {
 			buildings = {

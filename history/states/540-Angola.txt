@@ -6,7 +6,7 @@ state = {
 
 	history = {
 
-		owner = GLO
+		owner = SYN
 		add_core_of = ANG
 
 		buildings = {

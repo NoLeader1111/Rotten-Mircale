@@ -7,7 +7,7 @@ state = {
 
 	history = {
 
-		owner = VON
+		owner = KTS
 		add_core_of = JOR
 
 		buildings = {

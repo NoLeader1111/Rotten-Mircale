@@ -8,8 +8,8 @@ state = {
 
 	history = {
 
-		owner = URA
-		add_core_of = URA
+		owner = RUG
+		add_core_of = RUG
 
 		buildings = {
 			infrastructure = 2

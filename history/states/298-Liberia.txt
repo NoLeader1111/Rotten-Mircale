@@ -11,7 +11,7 @@ state=
 	
 
 	history= {
-		owner = VON
+		owner = KTS
 		buildings = {
 			infrastructure = 1
 			arms_factory = 1
