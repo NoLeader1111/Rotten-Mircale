@@ -1,0 +1,16 @@
+characters = {
+	AHE_Carl_I = {
+		name = "AHE_Carl"
+		portraits = {
+			civilian = {
+					large = "AHE_Carl"
+				}
+			}
+			country_leader = {
+				ideology = centrism
+				expire = "2000.1.1"
+				id = -1
+				traits = { incompetent The_architect_of_the_Danube big_personality }
+			}
+	}
+}

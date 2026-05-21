@@ -1,0 +1,7 @@
+spriteTypes = {	
+    				
+	spriteType = {
+		name = "AHE_Carl"
+		texturefile = "gfx/leaders/AHE/Portrait_AHE_Carl.dds"
+	}
+}

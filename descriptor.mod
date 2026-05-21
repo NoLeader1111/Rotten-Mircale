@@ -3,4 +3,4 @@ tags={
 	"Alternative History"
 }
 name="Gniloi mirikil"
-supported_version="1.18.1.0"
+supported_version="1.18*"
