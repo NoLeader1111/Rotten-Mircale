@@ -7,12 +7,12 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = ARB
+		owner = BGU
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = ARB
+		add_core_of = BGU
 		victory_points = {
 			10879 1
 		}

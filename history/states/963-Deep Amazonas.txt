@@ -5,8 +5,8 @@ state={
 		10960 12965 
 	}
 	history={
-		owner = ARB
-		add_core_of = ARB
+		owner = BGU
+		add_core_of = BGU
 	}
 	manpower=7683
 	impassable = yes
