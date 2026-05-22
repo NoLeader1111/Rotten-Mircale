@@ -16,7 +16,7 @@ ideas = {
         modifier = {
             stability_factor = -0.15                       # -15% стабильности
             production_factory_max_efficiency_factor = -0.10       # -10% максимальной эффективности производства
-            production_efficiency_factor = -0.30           # -30% эффективности производства
+            industrial_capacity_factory = -0.15        # -30% эффективности производства
             consumer_goods_factor = 0.20                    # +20% ТНП
         }
     }
@@ -64,7 +64,7 @@ ideas = {
         modifier = {
             consumer_goods_factor = 0.40                  # 40% ТНП
             construction_speed = -0.25                     # -25% скор. стр.
-            industrial_capacity_factory = -0.30    # -30% выпуска воен. заводов
+            industrial_capacity_factory = -0.15    # -30% выпуска воен. заводов
             stability_factor = -0.10                       # -10% стабильности
         }
     }
