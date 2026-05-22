@@ -1,0 +1,10 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_idea_AHE_music_culture"
+		texturefile = "gfx/interface/ideas/idea_AHE_music_culture.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_AHE_low_mortality"
+		texturefile = "gfx/interface/ideas/idea_AHE_low_mortality.dds"
+	}
+}

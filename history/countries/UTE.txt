@@ -57,3 +57,5 @@ set_popularities = {
 	communism = 13
 	neutrality = 48
 }
+
+recruit_character = UTE_vladimir_mudrodub

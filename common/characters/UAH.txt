@@ -1,0 +1,16 @@
+characters={
+
+	UAH_chumbker={
+		name = UAH_chumbker
+			portraits={
+				civilian={
+					large=GFX_Portrait_Chumbker_von_Aduchumb
+				}
+			}
+			country_leader={
+				ideology=despotism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+}

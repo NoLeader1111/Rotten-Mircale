@@ -1,17 +1,53 @@
-#AHE
+
 spriteTypes = {	
-    				
+    #AHE	
 	spriteType = {
 		name = "GFX_AHE_Carl"
 		texturefile = "gfx/leaders/AHE/Portrait_AHE_Carl.dds"
 	}
-spriteType = {
-		name = "GFX_Portrait_AHE_Parlament"
-		texturefile = "gfx/leaders/AHE/Portrait_AHE_Parlament.dds"
+	spriteType = {
+			name = "GFX_Portrait_AHE_Parlament"
+			texturefile = "gfx/leaders/AHE/Portrait_AHE_Parlament.dds"
+		}
+	#RAG
+	spriteType = {
+			name = "GFX_Portrait_RAGNN"
+			texturefile = "gfx/leaders/RAG/Portrait_RAGNN.dds"
+		}
+	#UTE
+	spriteType = {
+			name = GFX_Portrait_Vladimir_Mudrodub
+			texturefile = gfx/leaders/UTE/Portrait_Vladimir_Mudrodub.dds
+		}
+	#ARB
+	spriteType = {
+			name = GFX_Portrait_Arbuz
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Arbuz.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_ArbAnarchist
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Anarchist.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_ArbFalanga
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Falanga.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_ArbCommando
+			texturefile = gfx/leaders/ARB/Portrait_ARB_Commando.dds
+		}
+	#EGN
+	spriteType = {
+			name = GFX_Portrait_Agentik_Commi
+			texturefile = gfx/leaders/EGN/Portrait_EGN_Agentik_Commi.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_Agentik_King
+			texturefile = gfx/leaders/EGN/Portrait_EGN_Agentik_King.dds
+		}
+	#UAH
+	spriteType = {
+			name = GFX_Portrait_Chumbker_von_Aduchumb
+			texturefile = gfx/leaders/UAH/Portrait_UAH_Chumbker_von_Aduchumb.dds
+		}
 	}
-#RAG
-spriteType = {
-		name = "GFX_Portrait_RAGNN"
-		texturefile = "gfx/leaders/RAG/Portrait_RAGNN.dds"
-	}
-} 

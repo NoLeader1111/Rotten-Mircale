@@ -1,0 +1,55 @@
+characters={
+
+	ARB_arbuz={
+		name = ARB_arbuz
+			portraits={
+				civilian={
+					large=GFX_Portrait_Arbuz
+				}
+			}
+			country_leader={
+				ideology=socialism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+	ARB_anarchist={
+		name = ARB_anarchist
+			portraits={
+				civilian={
+					large=GFX_Portrait_ArbAnarchist
+				}
+			}
+			country_leader={
+				ideology=anarchist_communism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+	ARB_falanga={
+		name = ARB_falanga
+			portraits={
+				civilian={
+					large=GFX_Portrait_ArbFalanga
+				}
+			}
+			country_leader={
+				ideology=falangism
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+	ARB_commando={
+		name = ARB_commando
+			portraits={
+				civilian={
+					large=GFX_Portrait_ArbCommando
+				}
+			}
+			country_leader={
+				ideology=japan_militarism_ideology
+				expire="1965.1.1.1"
+				id=-1
+			}
+	}
+}

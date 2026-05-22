@@ -10,6 +10,15 @@ set_technology = {
 }
 
 set_convoys = 20
+add_ideas = {
+AHE_music_culture
+AHE_low_mortality
+AHE_subcultural_split
+AHE_no_professional_army
+AHE_bureaucracy_degradation
+AHE_economic_collapse
+AHE_ethnic_conflicts
+}
 recruit_character = AHE_CarlD
 recruit_character = AHE_CarlN
 recruit_character = AHE_ParlamentC

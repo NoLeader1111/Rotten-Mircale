@@ -59,3 +59,5 @@ set_popularities = {
 	communism = 8
 	neutrality = 59
 }
+
+recruit_character = UAH_chumbker

@@ -1,0 +1,84 @@
+ideas = {
+	country = {
+    AHE_low_mortality = {
+        picture = AHE_low_mortality
+        modifier = {
+            monthly_population = -0.5                      # -50% прироста населения
+            stability_factor = -0.30                       # -30% стабильности
+            war_support_factor = -0.20                     # -20% поддержки войны
+            consumer_goods_factor = -0.15                  # -15% ТНП 
+            local_resources_factor = -0.20               # -20% эффективности добычи ресурсов
+        }
+    }
+    # 2. Субкультурный раскол
+    AHE_subcultural_split = {
+        picture = AHE_subcultural_split
+        modifier = {
+            stability_factor = -0.15                       # -15% стабильности
+            production_factory_max_efficiency_factor = -0.10       # -10% максимальной эффективности производства
+            production_efficiency_factor = -0.30           # -30% эффективности производства
+            consumer_goods_factor = 0.20                    # +20% ТНП
+        }
+    }
+	# Богатейшая культура Европы
+		AHE_music_culture = {
+			name = AHE_music_culture
+			allowed = {
+				original_tag = AHE
+			}
+			removal_cost = -1
+			
+			picture = AHE_music_culture
+			
+			modifier = {
+			stability_factor = 0.1	#стаба
+			production_speed_industrial_complex_factor = 0.1 # фабрики
+			monthly_population = 0.1	# рост населения
+			}
+		}
+		# 4. Отсутствие профессиональной армии
+    AHE_no_professional_army = {
+        picture = AHE_no_professional_army
+        modifier = {
+            army_organisation_factor = -0.20               # -20% организации
+            army_initiative_factor = -0.05                 # -5% инициативы
+            offence = -0.20                 # -20% атаки
+            defence = -0.20                # -20% защиты
+            recruitable_population = -0.005                # -0.5% призыва
+            war_support_factor = -0.25                     # -25% поддержки войны
+        }
+    }
+
+    # 5. Деградация бюрократического аппарата
+    AHE_bureaucracy_degradation = {
+        picture = AHE_bureaucracy_degradation
+        modifier = {
+            stability_factor = -0.30                       # -30% стабильности
+            consumer_goods_factor = 0.30                   # +30% ТНП
+        }
+    }
+
+    # 6. Коллапс внутренней биржи
+    AHE_economic_collapse = {
+        picture = AHE_economic_collapse
+        modifier = {
+            consumer_goods_factor = 0.40                  # 40% ТНП
+            construction_speed = -0.25                     # -25% скор. стр.
+            industrial_capacity_factory = -0.30    # -30% выпуска воен. заводов
+            stability_factor = -0.10                       # -10% стабильности
+        }
+    }
+
+    # 7. Национальные споры
+    AHE_ethnic_conflicts = {
+        picture = AHE_ethnic_conflicts
+        modifier = {
+            stability_factor = -0.20                       # -20% стабильности
+            non_core_manpower = -0.20                      # -20% люд. ресурсов на не-нац. тер.
+            war_support_factor = -0.20                     # -20% поддержки войны
+            offence = -0.05                 # -5% атаки
+            defence = -0.05                # -5% защиты
+			}
+		}
+	}
+}
