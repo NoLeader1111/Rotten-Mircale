@@ -10,6 +10,11 @@ set_technology = {
 }
 
 set_convoys = 20
+recruit_character = UAH_chumbker
+recruit_character = UAH_Olga
+recruit_character = UAH_Victoria
+recruit_character = UAH_Helena
+recruit_character = UAH_Anastatsia
 
 1939.1.1 = {
 	#generic focuses

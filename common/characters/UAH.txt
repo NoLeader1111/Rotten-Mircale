@@ -1,15 +1,67 @@
 characters={
 
-	UAH_chumbker={
+	UAH_chumbker = {
 		name = UAH_chumbker
-			portraits={
-				civilian={
-					large=GFX_Portrait_Chumbker_von_Aduchumb
+			portraits = {
+				civilian = {
+					large = GFX_Portrait_Chumbker_von_Aduchumb
 				}
 			}
 			country_leader={
-				ideology=despotism
-				expire="1965.1.1.1"
+				ideology = centrism
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+	UAH_Olga = {
+		name = UAH_Olga
+			portraits = {
+				civilian = {
+					large = GFX_Portrait_UAH_Olga
+				}
+			}
+			country_leader = {
+				ideology= rexism
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+	UAH_Victoria = {
+		name = UAH_Victoria
+			portraits = {
+				civilian = {
+					large = GFX_Portrait_UAH_Victoria
+				}
+			}
+			country_leader = {
+				ideology = conservatism
+				expire = "1965.1.1.1"
+				id=-1
+			}
+	}
+	UAH_Helena = {
+		name = UAH_Helena
+			portraits={
+				civilian={
+					large = GFX_Portrait_UAH_Helena
+				}
+			}
+			country_leader = {
+				ideology = liberalism
+				expire = "1965.1.1.1"
+				id=-1
+			}
+	}
+	UAH_Anastatsia = {
+		name = UAH_Anastatsia
+			portraits= {
+				civilian= {
+					large= GFX_Portrait_UAH_Anastatsia
+				}
+			}
+			country_leader = {
+				ideology = stalinism
+				expire ="1965.1.1.1"
 				id=-1
 			}
 	}

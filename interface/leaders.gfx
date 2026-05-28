@@ -50,6 +50,22 @@ spriteTypes = {
 			name = GFX_Portrait_Chumbker_von_Aduchumb
 			texturefile = gfx/leaders/UAH/Portrait_UAH_Chumbker_von_Aduchumb.dds
 		}
+	spriteType = {
+			name = GFX_Portrait_UAH_Helena
+			texturefile = gfx/leaders/UAH/Portrait_UAH_Helena.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_UAH_Olga
+			texturefile = gfx/leaders/UAH/Portrait_UAH_Olga.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_UAH_Victoria
+			texturefile = gfx/leaders/UAH/Portrait_UAH_Victoria.dds
+		}
+	spriteType = {
+			name = GFX_Portrait_UAH_Anastatsia
+			texturefile = gfx/leaders/UAH/Portrait_UAH_Anastatsia.dds
+		}
 	#RUG
 	spriteType = {
 			name = GFX_Portrait_RUG_Alucard
