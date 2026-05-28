@@ -1,0 +1,54 @@
+characters={
+	RUG_AlucardN = {
+		name = RUG_AlucardN
+		portraits = {
+			civilian = {
+					large = GFX_Portrait_RUG_Alucard
+				}
+			}
+			country_leader = {
+				ideology = centrism
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+	RUG_AlucardD = {
+		name = RUG_AlucardD
+		portraits = {
+			civilian = {
+					large = GFX_Portrait_RUG_Alucard
+				}
+			}
+			country_leader = {
+				ideology = conservatism
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+	RUG_AlucardC = {
+		name = RUG_AlucardC
+		portraits = {
+			civilian = {
+					large = GFX_Portrait_RUG_Alucard
+				}
+			}
+			country_leader = {
+				ideology = stalinism
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+	RUG_AlucardF = {
+		name = RUG_AlucardF
+		portraits = {
+			civilian = {
+					large = GFX_Portrait_RUG_Alucard
+				}
+			}
+			country_leader = {
+				ideology = rexism
+				expire = "1965.1.1.1"
+				id = -1
+			}
+	}
+}

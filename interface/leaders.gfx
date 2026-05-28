@@ -50,4 +50,9 @@ spriteTypes = {
 			name = GFX_Portrait_Chumbker_von_Aduchumb
 			texturefile = gfx/leaders/UAH/Portrait_UAH_Chumbker_von_Aduchumb.dds
 		}
-	}
+	#RUG
+	spriteType = {
+			name = GFX_Portrait_RUG_Alucard
+			texturefile = gfx/leaders/RUG/Portrait_RUG_Alucard.dds
+		}
+}

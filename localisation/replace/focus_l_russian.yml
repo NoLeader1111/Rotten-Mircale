@@ -1,5 +1,4 @@
 ﻿l_russian:
- #AHE
  AHE_focus0: "Начало коронации Карла I"
  AHE_focus0_desc: ""
  AHE_focus1: "Приглашение гостей с других стран"
@@ -20,17 +19,10 @@
  AHE_focus11_desc: ""
  AHE_focus16: "Выплаты малоимущим"
  AHE_focus16_desc: ""
-<<<<<<< HEAD
  AHE_focus17: "Печать эмо-денег"
  AHE_focus17_desc: ""
  AHE_focus18: "Субсидии малого бизнеса"
  AHE_focus18_desc: ""
  AHE_focus19: "Решить логистические проблемы"
  AHE_focus19_desc: ""
-=======
-
- #ARB
- ARB_constitutional_stasis: "Конституционный Стазис"
- ARB_constitutional_stasis_desc: ""
->>>>>>> dfbded337b61a8d247804a1113329624de0b4c91
  

@@ -60,8 +60,8 @@ PRS = {
 	color_ui = rgb { 92 147 126 }
 }
 KNB = {
-	color = rgb { 102 102 153 }
-	color_ui = rgb { 102 102 153 }
+	color = rgb { 255 235 205 }
+	color_ui = rgb { 255 235 205 }
 }
 UTE = {
 	color = rgb { 239 172 31 }

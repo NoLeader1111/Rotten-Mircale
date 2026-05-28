@@ -44,7 +44,6 @@ ideas = {
             army_initiative_factor = -0.05                 # -5% инициативы
             offence = -0.20                 # -20% атаки
             defence = -0.20                # -20% защиты
-            recruitable_population = -0.005                # -0.5% призыва
             war_support_factor = -0.25                     # -25% поддержки войны
         }
     }
@@ -78,6 +77,187 @@ ideas = {
             war_support_factor = -0.20                     # -20% поддержки войны
             offence = -0.05                 # -5% атаки
             defence = -0.05                # -5% защиты
+			}
+		}
+	AHE_low_mortality1 = {
+        picture = AHE_low_mortality
+        modifier = {
+            monthly_population = -0.4
+            stability_factor = -0.20
+            war_support_factor = -0.15
+            consumer_goods_factor = -0.1
+            local_resources_factor = -0.15
+        }
+    }
+    # 2. Субкультурный раскол1
+    AHE_subcultural_split1 = {
+        picture = AHE_subcultural_split
+        modifier = {
+            stability_factor = -0.1
+            production_factory_max_efficiency_factor = -0.05
+            industrial_capacity_factory = -0.1
+            consumer_goods_factor = 0.15
+        }
+    }
+		# 4. Отсутствие профессиональной армии1
+    AHE_no_professional_army1 = {
+        picture = AHE_no_professional_army
+        modifier = {
+            army_organisation_factor = -0.15
+            army_initiative_factor = -0.04
+            offence = -0.15
+            defence = -0.15
+            war_support_factor = -0.2
+        }
+    }
+
+    # 5. Деградация бюрократического аппарата1
+    AHE_bureaucracy_degradation1 = {
+        picture = AHE_bureaucracy_degradation
+        modifier = {
+            stability_factor = -0.2
+            consumer_goods_factor = 0.2
+        }
+    }
+
+    # 6. Коллапс внутренней биржи1
+    AHE_economic_collapse1 = {
+        picture = AHE_economic_collapse
+        modifier = {
+            consumer_goods_factor = 0.30                 
+            construction_speed = -0.2                
+            industrial_capacity_factory = -0.1
+            stability_factor = -0.05                    
+			}
+		}
+	AHE_low_mortality2 = {
+        picture = AHE_low_mortality
+        modifier = {
+            monthly_population = -0.3
+            stability_factor = -0.14
+            war_support_factor = -0.1
+            consumer_goods_factor = -0.05
+            local_resources_factor = -0.10
+        }
+    }
+    # 2. Субкультурный раскол2
+    AHE_subcultural_split2 = {
+        picture = AHE_subcultural_split
+        modifier = {
+            stability_factor = -0.05
+            production_factory_max_efficiency_factor = -0.02
+            industrial_capacity_factory = -0.05
+            consumer_goods_factor = 0.10
+        }
+    }
+		# 4. Отсутствие профессиональной армии2
+    AHE_no_professional_army2 = {
+        picture = AHE_no_professional_army
+        modifier = {
+            army_organisation_factor = -0.1
+            army_initiative_factor = -0.03
+            offence = -0.1
+            defence = -0.1
+            war_support_factor = -0.15
+        }
+    }
+
+    # 5. Деградация бюрократического аппарата2
+    AHE_bureaucracy_degradation2 = {
+        picture = AHE_bureaucracy_degradation
+        modifier = {
+            stability_factor = -0.15
+            consumer_goods_factor = 0.15
+        }
+    }
+
+    # 6. Коллапс внутренней биржи2
+    AHE_economic_collapse2 = {
+        picture = AHE_economic_collapse
+        modifier = {
+            consumer_goods_factor = 0.25                
+            construction_speed = -0.15             
+            industrial_capacity_factory = -0.05         
+			}
+		}
+    # 2. Субкультурный раскол3
+    AHE_subcultural_split3 = {
+        picture = AHE_subcultural_split
+        modifier = {
+            stability_factor = -0.03
+            production_factory_max_efficiency_factor = -0.01
+            industrial_capacity_factory = -0.03
+            consumer_goods_factor = 0.05
+        }
+    }
+		# 4. Отсутствие профессиональной армии3
+    AHE_no_professional_army3 = {
+        picture = AHE_no_professional_army
+        modifier = {
+            army_organisation_factor = -0.05
+            army_initiative_factor = -0.02
+            offence = -0.05
+            defence = -0.05
+            war_support_factor = -0.1
+        }
+    }
+
+    # 5. Деградация бюрократического аппарата3
+    AHE_bureaucracy_degradation3 = {
+        picture = AHE_bureaucracy_degradation
+        modifier = {
+            stability_factor = -0.1
+            consumer_goods_factor = 0.1
+        }
+    }
+
+    # 6. Коллапс внутренней биржи3
+    AHE_economic_collapse3 = {
+        picture = AHE_economic_collapse
+        modifier = {
+            consumer_goods_factor = 0.2            
+            construction_speed = -0.1             
+            industrial_capacity_factory = -0.03        
+			}
+		}
+	    # 2. Субкультурный раскол4
+    AHE_subcultural_split4 = {
+        picture = AHE_subcultural_split
+        modifier = {
+            stability_factor = -0.01
+            production_factory_max_efficiency_factor = -0.01
+            industrial_capacity_factory = -0.01
+            consumer_goods_factor = 0.01
+        }
+    }
+		# 4. Отсутствие профессиональной армии4
+    AHE_no_professional_army4 = {
+        picture = AHE_no_professional_army
+        modifier = {
+            army_organisation_factor = -0.01
+            army_initiative_factor = -0.01
+            offence = -0.03
+            defence = -0.03
+            war_support_factor = -0.05
+        }
+    }
+
+    # 5. Деградация бюрократического аппарата4
+    AHE_bureaucracy_degradation4 = {
+        picture = AHE_bureaucracy_degradation
+        modifier = {
+            stability_factor = -0.05
+            consumer_goods_factor = 0.05
+        }
+    }
+
+    # 6. Коллапс внутренней биржи4
+    AHE_economic_collapse4 = {
+        picture = AHE_economic_collapse
+        modifier = {
+            consumer_goods_factor = 0.1          
+            construction_speed = -0.05         
+            industrial_capacity_factory = -0.01    
 			}
 		}
 	}

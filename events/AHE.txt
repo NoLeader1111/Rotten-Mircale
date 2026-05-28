@@ -111,7 +111,7 @@ country_event = {
 		ai_chance = {
 			base = 33
 		}
-		complete_national_focus = { focus = AHE_focus5 }
+		complete_national_focus = { focus = AHE_focus6 }
 		add_popularity = {
 			ideology = fascism
 			popularity = 0.1
@@ -122,7 +122,7 @@ country_event = {
 		ai_chance = {
 			base = 33
 		}
-		complete_national_focus = { focus = AHE_focus6 }
+		complete_national_focus = { focus = AHE_focus5 }
 		add_popularity = {
 			ideology = communism
 			popularity = 0.1
