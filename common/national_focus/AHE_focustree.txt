@@ -12,7 +12,10 @@ focus_tree = {
 	focus = {
 		id = AHE_focus0
 		icon = GFX_focus_HABSBURG_for_the_glory_of_the_empire
-		cost = 2,00
+		cost = 2.00
+		completion_reward = {
+        country_event = AHEcor.1
+		}
 		x = 8
 		y = 0
 
@@ -20,17 +23,23 @@ focus_tree = {
 	focus = {
 		id = AHE_focus21
 		icon = GFX_goal_unknown
-		cost = 2,00
+		cost = 2.00
+		available = {
+        has_completed_focus = AHE_focus20
+		}
 		x = 22
 		y = 0
-
+		
 	}
 	focus = {
 		id = AHE_focus1
 		icon = GFX_goal_unknown
-		cost = 2,00
+		cost = 2.00
 		prerequisite = {
 			focus = AHE_focus0
+		}
+		completion_reward = {
+        country_event = AHEinv.1
 		}
 		x = 8
 		y = 1
@@ -39,9 +48,12 @@ focus_tree = {
 	focus = {
 		id = AHE_focus2
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus1
+		}
+		completion_reward = {
+        country_event = AHEendc.1
 		}
 		x = 8
 		y = 2
@@ -50,12 +62,12 @@ focus_tree = {
 	focus = {
 		id = AHE_focus5
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus2
 		}
 		available = {
-        always = no    # Фокус НИКОГДА не будет доступен для взятия
+        always = no    
 		}
 		mutually_exclusive = {
 			focus = AHE_focus4
@@ -67,12 +79,12 @@ focus_tree = {
 	focus = {
 		id = AHE_focus4
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus2
 		}
 		available = {
-        always = no    # Фокус НИКОГДА не будет доступен для взятия
+        always = no    
 		}
 		mutually_exclusive = {
 			focus = AHE_focus6
@@ -88,7 +100,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus7
 		icon = GFX_focus_AUS_lawmaking_leniency
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus4
 		}
@@ -99,7 +111,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus11
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus7
 		}
@@ -110,7 +122,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus8
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus7
 		}
@@ -121,7 +133,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus9
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus8
 		}
@@ -132,7 +144,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus10
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus9
 		}
@@ -143,7 +155,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus15
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus10
 		}
@@ -154,7 +166,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus16
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus7
 		}
@@ -165,7 +177,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus17
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus16
 		}
@@ -176,7 +188,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus18
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus17
 		}
@@ -187,7 +199,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus19
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus18
 		}
@@ -198,12 +210,12 @@ focus_tree = {
 	focus = {
 		id = AHE_focus6
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus2
 		}
 		available = {
-        always = no    # Фокус НИКОГДА не будет доступен для взятия
+        always = no    
 		}
 		mutually_exclusive = {
 			focus = AHE_focus4
@@ -215,7 +227,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus26
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus21
 		}
@@ -226,7 +238,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus23
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus21
 		}
@@ -237,7 +249,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus22
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus21
 		}
@@ -248,7 +260,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus24
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus21
 		}
@@ -259,7 +271,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus25
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus22
 		}
@@ -276,7 +288,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus12
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus11
 		}
@@ -287,7 +299,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus13
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus12
 		}
@@ -298,7 +310,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus14
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus13
 		}
@@ -309,7 +321,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus20
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus19
 		}
@@ -326,7 +338,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus27
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus21
 		}
@@ -337,7 +349,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus28
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus20
 		}
@@ -348,7 +360,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus29
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus20
 		}
@@ -359,7 +371,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus30
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus20
 		}
@@ -370,7 +382,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus31
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus29
 		}
@@ -381,7 +393,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus32
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus30
 		}
@@ -392,7 +404,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus33
 		icon = GFX_goal_unknown
-		cost = 5,00
+		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus28
 		}
@@ -403,7 +415,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus34
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus32
 		}
@@ -414,7 +426,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus35
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus33
 		}
@@ -425,7 +437,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus36
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus31
 		}
@@ -436,7 +448,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus37
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus34
 		}
@@ -451,7 +463,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus38
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus36
 		}
@@ -465,7 +477,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus39
 		icon = GFX_goal_unknown
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus35
 		}
@@ -479,7 +491,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus40
 		icon = GFX_focus_AUS_bring_phonix_insurance_from_the_ashes
-		cost = 10,00
+		cost = 10.00
 		prerequisite = {
 			focus = AHE_focus37
 			focus = AHE_focus38

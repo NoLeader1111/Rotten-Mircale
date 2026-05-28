@@ -1,0 +1,85 @@
+add_namespace = KTSinv
+add_namespace = KNBinv
+add_namespace = VIRinv
+
+country_event = {
+	id = KNBinv.1
+	title = KNBinv.1.t
+	desc = KNBinv.1.desc
+	picture = event_test
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = KNBinv.1.a
+		ai_chance = {
+			base = 33
+		}
+		add_opinion_modifier = { target = AHE modifier = medium_increase }
+		add_political_power = 10
+		add_stability = 0.01
+	}
+	option = {
+		name = KNBinv.1.b
+		ai_chance = {
+			base = 33
+		}
+		add_opinion_modifier = { target = AHE modifier = small_decrease }
+		add_political_power = 10
+		add_stability = 0.01
+	}
+}
+country_event = {
+	id = VIRinv.1
+	title = VIRinv.1.t
+	desc = VIRinv.1.desc
+	picture = event_test
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = VIRinv.1.a
+		ai_chance = {
+			base = 33
+		}
+		add_opinion_modifier = { target = AHE modifier = medium_increase }
+		add_political_power = 10
+		add_stability = 0.01
+	}
+	option = {
+		name = VIRinv.1.b
+		ai_chance = {
+			base = 33
+		}
+		add_opinion_modifier = { target = AHE modifier = small_decrease }
+		add_political_power = 10
+		add_stability = 0.01
+	}
+}
+country_event = {
+	id = KTSinv.1
+	title = KTSinv.1.t
+	desc = KTSinv.1.desc
+	picture = event_test
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = KTSinv.1.a
+		ai_chance = {
+			base = 33
+		}
+		add_opinion_modifier = { target = AHE modifier = medium_increase }
+		add_political_power = 10
+		add_stability = 0.01
+	}
+	option = {
+		name = KTSinv.1.b
+		ai_chance = {
+			base = 33
+		}
+		add_opinion_modifier = { target = AHE modifier = small_decrease }
+		add_political_power = 10
+		add_stability = 0.01
+	}
+}

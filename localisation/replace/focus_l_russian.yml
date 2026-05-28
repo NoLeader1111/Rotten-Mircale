@@ -1,7 +1,9 @@
 ﻿l_russian:
  AHE_focus0: "Начало коронации Карла I"
  AHE_focus0_desc: ""
- AHE_focus2: "Приглашение гостей с других стран"
+ AHE_focus1: "Приглашение гостей с других стран"
+ AHE_focus1_desc: ""
+ AHE_focus2: "Конец коронации"
  AHE_focus2_desc: ""
  AHE_focus4: "Карл I получает умеренную поддержку"
  AHE_focus4_desc: ""
@@ -17,4 +19,10 @@
  AHE_focus11_desc: ""
  AHE_focus16: "Выплаты малоимущим"
  AHE_focus16_desc: ""
+ AHE_focus17: "Печать эмо-денег"
+ AHE_focus17_desc: ""
+ AHE_focus18: "Субсидии малого бизнеса"
+ AHE_focus18_desc: ""
+ AHE_focus19: "Решить логистические проблемы"
+ AHE_focus19_desc: ""
  

@@ -1,0 +1,131 @@
+add_namespace = AHEcor
+add_namespace = AHEinv
+add_namespace = AHEendc
+
+country_event = {
+	id = AHEcor.1
+	title = AHEcor.1.t
+	desc = AHEcor.1.desc
+	picture = event_test
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = AHEcor.1.a
+		ai_chance = {
+			base = 33
+		}
+		add_political_power = 50
+		add_stability = 0.1
+		add_popularity = {
+			ideology = neutrality
+			popularity = 0.05
+		}
+	}
+	option = {
+		name = AHEcor.1.b
+		ai_chance = {
+			base = 33
+		}
+		add_political_power = -50
+		add_popularity = {
+			ideology = fascism
+			popularity = 0.05
+		}
+		add_stability = -0.05
+	}
+	option = {
+		name = AHEcor.1.c
+		ai_chance = {
+			base = 33
+		}
+		add_political_power = -100
+		add_popularity = {
+			ideology = communism
+			popularity = 0.1
+		}
+		add_stability = -0.1
+	}
+}
+country_event = {
+	id = AHEinv.1
+	title = AHEinv.1.t
+	desc = AHEinv.1.desc
+	picture = event_test
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = AHEinv.1.a
+		ai_chance = {
+			base = 33
+		}
+		add_political_power = 10
+		add_stability = 0.01
+		KTS = { country_event = KTSinv.1 }
+	}
+	option = {
+		name = AHEinv.1.b
+		ai_chance = {
+			base = 33
+		}
+		add_political_power = 10
+		add_stability = 0.01
+		VIR = { country_event = VIRinv.1 }
+	}
+	option = {
+		name = AHEinv.1.c
+		ai_chance = {
+			base = 33
+		}
+		add_political_power = 10
+		add_stability = 0.01
+		KNB = { country_event = KNBinv.1 }
+	}
+}
+country_event = {
+	id = AHEendc.1
+	title = AHEendc.1.t
+	desc = AHEendc.1.desc
+	picture = event_test
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = AHEendc.1.a
+		ai_chance = {
+			base = 33
+		}
+		complete_national_focus = { focus = AHE_focus4 }
+		add_popularity = {
+			ideology = democratic
+			popularity = 0.05
+		}
+		add_popularity = {
+		ideology = neutrality
+			popularity = 0.05
+		}
+	}
+	option = {
+		name = AHEendc.1.b
+		ai_chance = {
+			base = 33
+		}
+		complete_national_focus = { focus = AHE_focus5 }
+		add_popularity = {
+			ideology = fascism
+			popularity = 0.1
+		}
+	}
+	option = {
+		name = AHEendc.1.c
+		ai_chance = {
+			base = 33
+		}
+		complete_national_focus = { focus = AHE_focus6 }
+		add_popularity = {
+			ideology = communism
+			popularity = 0.1
+		}
+	}
+}

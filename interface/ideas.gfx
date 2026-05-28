@@ -7,4 +7,24 @@ spriteTypes = {
 		name = "GFX_idea_AHE_low_mortality"
 		texturefile = "gfx/interface/ideas/idea_AHE_low_mortality.dds"
 	}
-}
+	spriteType = {
+		name = "GFX_idea_AHE_no_professional_army"
+		texturefile = "gfx/interface/ideas/idea_AHE_no_professional_army.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_AHE_subcultural_split"
+		texturefile = "gfx/interface/ideas/idea_AHE_subcultural_split.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_AHE_bureaucracy_degradation"
+		texturefile = "gfx/interface/ideas/idea_AHE_bureaucracy_degradation.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_AHE_economic_collapse"
+		texturefile = "gfx/interface/ideas/idea_AHE_economic_collapse.dds"
+	}
+    spriteType = {
+		name = "GFX_idea_AHE_ethnic_conflicts"
+		texturefile = "gfx/interface/ideas/idea_AHE_ethnic_conflicts.dds"
+	}
+} 
