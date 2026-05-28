@@ -8,7 +8,7 @@ focus_tree = {
 		}
 	}
 	default = no
-	continuous_focus_position = { x = 1 y = 1 }
+	continuous_focus_position = { x = 10000 y = 10000 }
 	focus = {
 		id = AHE_focus0
 		icon = GFX_focus_HABSBURG_for_the_glory_of_the_empire
