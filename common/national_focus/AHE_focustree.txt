@@ -406,7 +406,28 @@ focus_tree = {
 		prerequisite = {
 			focus = AHE_focus20
 		}
-		x = 14
+		completion_reward = {
+		add_state_core = 109
+        109 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 1
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 1
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 2
+                instant_build = yes
+				}
+			}
+		109 = { add_extra_state_shared_building_slots = 2 }
+		}
+		x = 13
 		y = 12
 
 	}
@@ -417,20 +438,62 @@ focus_tree = {
 		prerequisite = {
 			focus = AHE_focus20
 		}
+		completion_reward = {
+		add_state_core = 75
+        9 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 3
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 3
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 1
+                instant_build = yes
+				}
+			}
+		9 = { add_extra_state_shared_building_slots = 6 }
+		}
 		x = 3
 		y = 12
 
 	}
 	focus = {
-		id = AHE_focus30
-		icon = GFX_goal_unknown
-		cost = 5.00
-		prerequisite = {
-			focus = AHE_focus20
+    id = AHE_focus30
+    icon = GFX_goal_unknown
+    cost = 5.00
+    prerequisite = {
+        focus = AHE_focus20
+    }
+    completion_reward = {
+		add_state_core = 43
+		add_state_core = 154
+        43 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 1
+                instant_build = yes
+				}
+			}
+		43 = { add_extra_state_shared_building_slots = 4 }	
 		}
-		x = 8
-		y = 12
-
+    x = 8
+    y = 12
 	}
 	focus = {
 		id = AHE_focus31
@@ -438,6 +501,27 @@ focus_tree = {
 		cost = 5.00
 		prerequisite = {
 			focus = AHE_focus29
+		}
+		completion_reward = {
+		add_state_core = 70
+        70 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 1
+                instant_build = yes
+				}
+			}
+		70 = { add_extra_state_shared_building_slots = 4 }
 		}
 		x = 3
 		y = 13
@@ -450,6 +534,27 @@ focus_tree = {
 		prerequisite = {
 			focus = AHE_focus30
 		}
+		completion_reward = {
+		add_state_core = 973
+        973 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 1
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 1
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 2
+                instant_build = yes
+				}
+			}
+		973 = { add_extra_state_shared_building_slots = 4 }
+		}
 		x = 8
 		y = 13
 
@@ -461,16 +566,59 @@ focus_tree = {
 		prerequisite = {
 			focus = AHE_focus28
 		}
-		x = 14
+		completion_reward = {
+		add_state_core = 764
+        764 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 1
+                instant_build = yes
+				}
+			}
+		764 = { add_extra_state_shared_building_slots = 4 }
+		}
+		x = 13
 		y = 13
 
 	}
 	focus = {
 		id = AHE_focus34
 		icon = GFX_goal_unknown
-		cost = 10.00
+		cost = 5
 		prerequisite = {
 			focus = AHE_focus32
+		}
+		completion_reward = {
+		add_state_core = 974
+		add_state_core = 155
+        974 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 1
+                instant_build = yes
+				}
+			}
+		974 = { add_extra_state_shared_building_slots = 4 }
 		}
 		x = 8
 		y = 14
@@ -479,20 +627,63 @@ focus_tree = {
 	focus = {
 		id = AHE_focus35
 		icon = GFX_goal_unknown
-		cost = 10.00
+		cost = 5
 		prerequisite = {
 			focus = AHE_focus33
 		}
-		x = 14
+		completion_reward = {
+		add_state_core = 45
+        45 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 1
+                instant_build = yes
+				}
+			}
+		45 = { add_extra_state_shared_building_slots = 4 }
+		}
+		x = 13
 		y = 14
 
 	}
 	focus = {
 		id = AHE_focus36
 		icon = GFX_goal_unknown
-		cost = 10.00
+		cost = 5
 		prerequisite = {
 			focus = AHE_focus31
+		}
+		completion_reward = {
+		add_state_core = 71
+		add_state_core = 664
+        71 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 2
+                instant_build = yes
+				}
+			}
+		71 = { add_extra_state_shared_building_slots = 4 }
 		}
 		x = 3
 		y = 14
@@ -501,7 +692,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus37
 		icon = GFX_goal_unknown
-		cost = 10.00
+		cost = 7
 		prerequisite = {
 			focus = AHE_focus34
 		}
@@ -516,7 +707,7 @@ focus_tree = {
 	focus = {
 		id = AHE_focus38
 		icon = GFX_goal_unknown
-		cost = 10.00
+		cost = 7
 		prerequisite = {
 			focus = AHE_focus36
 		}
@@ -530,14 +721,14 @@ focus_tree = {
 	focus = {
 		id = AHE_focus39
 		icon = GFX_goal_unknown
-		cost = 10.00
+		cost = 7
 		prerequisite = {
 			focus = AHE_focus35
 		}
 		mutually_exclusive = {
 			focus = AHE_focus37
 		}
-		x = 14
+		x = 13
 		y = 15
 
 	}
@@ -552,6 +743,192 @@ focus_tree = {
 		}
 		x = 8
 		y = 17
+
+	}
+	focus = {
+		id = AHE_focus41
+		icon = GFX_goal_unknown
+		cost = 5
+		prerequisite = {
+			focus = AHE_focus20
+		}
+		completion_reward = {
+        4 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 3
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 3
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 1
+                instant_build = yes
+				}
+			}
+		4 = { add_extra_state_shared_building_slots = 6 }
+		}
+		x = 10
+		y = 12
+
+	}
+	focus = {
+		id = AHE_focus42
+		icon = GFX_goal_unknown
+		cost = 5
+		prerequisite = {
+			focus = AHE_focus41
+		}
+		completion_reward = {
+        976 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 2
+                instant_build = yes
+				}
+			}
+		976 = { add_extra_state_shared_building_slots = 4 }
+		}
+		x = 10
+		y = 13
+
+	}
+	focus = {
+		id = AHE_focus43
+		icon = GFX_goal_unknown
+		cost = 5
+		prerequisite = {
+			focus = AHE_focus42
+		}
+		completion_reward = {
+        152 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 2
+                instant_build = yes
+				}
+			}
+		152 = { add_extra_state_shared_building_slots = 4 }
+		}
+		x = 10
+		y = 14
+
+	}
+	focus = {
+		id = AHE_focus44
+		icon = GFX_goal_unknown
+		cost = 5.00
+		prerequisite = {
+			focus = AHE_focus20
+		}
+		completion_reward = {
+        153 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 2
+                instant_build = yes
+				}
+			}
+		153 = { add_extra_state_shared_building_slots = 6 }
+		}
+		x = 6
+		y = 12
+
+	}
+	focus = {
+		id = AHE_focus45
+		icon = GFX_goal_unknown
+		cost = 5.00
+		prerequisite = {
+			focus = AHE_focus44
+		}
+		completion_reward = {
+        848 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 1
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 1
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 3
+                instant_build = yes
+				}
+			}
+		848 = { add_extra_state_shared_building_slots = 4 }
+		}
+		x = 6
+		y = 13
+
+	}
+	focus = {
+		id = AHE_focus46
+		icon = GFX_goal_unknown
+		cost = 5.00
+		prerequisite = {
+			focus = AHE_focus45
+		}
+		completion_reward = {
+        102 = {
+            add_building_construction = {
+                type = industrial_complex
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = arms_factory
+                level = 2
+                instant_build = yes
+				}
+			add_building_construction = {
+                type = infrastructure
+                level = 2
+                instant_build = yes
+				}
+			}
+		102 = { add_extra_state_shared_building_slots = 4 }
+		}
+		x = 6
+		y = 14
 
 	}
 }
