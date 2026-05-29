@@ -27,4 +27,12 @@ spriteTypes = {
 		name = "GFX_idea_AHE_ethnic_conflicts"
 		texturefile = "gfx/interface/ideas/idea_AHE_ethnic_conflicts.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_AHE_AusHun"
+		texturefile = "gfx/interface/ideas/idea_AHE_AusHun.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_AHE_Phoenix_Rise"
+		texturefile = "gfx/interface/ideas/idea_AHE_Phoenix_Rise.dds"
+	}
 } 

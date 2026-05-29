@@ -700,6 +700,9 @@ focus_tree = {
 			focus = AHE_focus39
 			focus = AHE_focus38
 		}
+		completion_reward = {
+        swap_ideas = { remove_idea = AHE_ethnic_conflicts add_idea = AHE_ethnic_conflictsH }
+		}
 		x = 8
 		y = 15
 
@@ -713,6 +716,12 @@ focus_tree = {
 		}
 		mutually_exclusive = {
 			focus = AHE_focus37
+		}
+		mutually_exclusive = {
+			focus = AHE_focus38
+		}
+		completion_reward = {
+        swap_ideas = { remove_idea = AHE_ethnic_conflicts add_idea = AHE_ethnic_conflictsC }
 		}
 		x = 3
 		y = 15
@@ -728,6 +737,12 @@ focus_tree = {
 		mutually_exclusive = {
 			focus = AHE_focus37
 		}
+		mutually_exclusive = {
+			focus = AHE_focus36
+		}
+		completion_reward = {
+        swap_ideas = { remove_idea = AHE_ethnic_conflicts add_idea = AHE_ethnic_conflictsCH }
+		}
 		x = 13
 		y = 15
 
@@ -740,6 +755,9 @@ focus_tree = {
 			focus = AHE_focus37
 			focus = AHE_focus38
 			focus = AHE_focus39
+		}
+		completion_reward = {
+			add_ideas = AHE_Phoenix_Rise
 		}
 		x = 8
 		y = 17

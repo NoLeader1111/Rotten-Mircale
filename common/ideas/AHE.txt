@@ -260,5 +260,49 @@ ideas = {
             industrial_capacity_factory = -0.01    
 			}
 		}
+		
+	#Уступки Венграм
+	AHE_ethnic_conflictsH = {
+        picture = AHE_AusHun
+        modifier = {
+            stability_factor = -0.05
+            non_core_manpower = -0.05
+            war_support_factor = 0.2
+            defence = 0.15
+			}
+		}
+	#Уступки Чехам
+	AHE_ethnic_conflictsC = {
+        picture = AHE_AusHun
+        modifier = {
+            stability_factor = 0.1
+            non_core_manpower = 0.1
+            war_support_factor = 0.1
+			construction_speed = 0.05
+			industrial_capacity_factory = 0.05
+            offence = 0.05
+            defence = 0.05
+			}
+		}
+	#Уступки Хорватам
+	AHE_ethnic_conflictsCH = {
+        picture = AHE_AusHun
+        modifier = {
+			industrial_capacity_factory = 0.1
+			production_factory_max_efficiency_factor = 0.05
+			consumer_goods_factor = -0.20 
+			construction_speed = 0.1
+			}
+		}
+	AHE_Phoenix_Rise = {
+        picture = AHE_Phoenix_Rise
+        modifier = {
+			political_power_factor = 0.15
+            monthly_population = 0.15
+            stability_factor = 0.2
+            war_support_factor = 0.2
+            consumer_goods_factor = -0.1
+			}
+		}
 	}
 }
