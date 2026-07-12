@@ -27,7 +27,7 @@ state = {
 		}
 
 		victory_points = {
-			11977 1 # TaiGLO
+			11977 1 # Taiger
 		}
 
 		victory_points = {

@@ -58,7 +58,7 @@ state = {
 	
 	
 		1936.3.7 = {
-			set_demiFUMarized_zone = no
+			 
 		}
 	}
 

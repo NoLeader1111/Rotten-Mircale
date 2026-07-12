@@ -31,7 +31,7 @@ state = {
 			if = {
 				limit = {
 					NOT = {
-						has_dlc = "Waking the TiGLO" 
+						has_dlc = "Waking the Tiger" 
 					}
 
 				}

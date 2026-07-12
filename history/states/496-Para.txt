@@ -1,7 +1,7 @@
 
 state = {
 	id = 496
-	name = "STATE_496" # Minas GLOais
+	name = "STATE_496" # Minas gerais
 	manpower = 4603600
 	
 	state_category = rural # was town
