@@ -7,10 +7,8 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = TIB
-		add_core_of = TIB
-		add_core_of = CHN
-		add_core_of = CHN
+		owner = TRU
+		add_core_of = TRU
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
